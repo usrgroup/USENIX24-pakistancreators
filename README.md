@@ -15,6 +15,9 @@ Description: This PDF file comprises the screening survey questions. These quest
 4. **Interview-Guidelines.pdf**
 Description: This PDF document contains the guidelines for conducting semi-structured interviews. It includes the questions that were asked to the participants during the interview phase, providing a structured approach to data collection.
 
+5. **USENIX24__Threat_Experiences_and_Security_Practices_of_Pakistani_Content_Creators.pdf**
+Description: This PDF document contains a pre-print of the paper. 
+
 ## How to Use:
 
 **Codebook.csv**:
@@ -31,4 +34,8 @@ participant selection.
 Open the PDF file using a PDF viewer to access the interview guidelines and questions. This document guides the interviewer through the semi-structured interview process.
 
 ## Additional Notes:
-For any inquiries or clarifications, please contact the authors.
+For any inquiries or clarifications, please contact the authors. 
+Lead author contact details: lea.groeber (at) cispa (dot) de
+
+## Licensing:
+This artifact is published under GNU Affero General Public License as indicated in the ```LICENSE``` file.
